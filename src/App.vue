@@ -7,6 +7,9 @@
 </template>
 
 <script>
+//part 1 
+//answer "To create a Vue project, you need to install Node.js and npm first. 
+// Then, install the Vue CLI globally using npm to scaffold and run your Vue application."
 import Products from './components/Products.vue';
 import CartSummary from './components/CartSummary.vue';
 
